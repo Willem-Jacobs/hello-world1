@@ -12,3 +12,5 @@ I am going to add some random text. You will not see this on GitHub unitl I do a
 - git commit -m "your comment"
 - git status
 - git push origin main
+
+GitHub changed master to main a few months back ensure use main as the main branch.
