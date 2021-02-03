@@ -7,8 +7,8 @@ I am going to add some random text. You will not see this on GitHub unitl I do a
 (C)ommit
 (P)ush
 
-git add README.md
-git status
-git commit -m "your comment"
-git status
-git push origin main
+- git add README.md
+- git status
+- git commit -m "your comment"
+- git status
+- git push origin main
